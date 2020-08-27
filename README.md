@@ -1,16 +1,9 @@
-# projeto_pergunta
+# AppPerguntas
 
-A new Flutter project.
+É um Projeto para estudos aonde o usuario entra com respostas e no final ele recebe um Score com sua pontuação
 
-## Getting Started
+O objetivo deste projeto é somente treinar a transição de telas passando parametros para os componetes que forman o App
 
-This project is a starting point for a Flutter application.
+## APK download
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Assim que terminar irei compilar a aplicação e colocar disponivel para download.
